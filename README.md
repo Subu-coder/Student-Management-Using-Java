@@ -5,4 +5,6 @@ An Student Management System made using Basic Core concepts of Java OOPS and JDB
 - To Store the data you have to install MySQL database or any other database. <br>
 - In Properties file You can give details about your database. properties file present in lib > StudentProp.properties <br>
 - mysql jar file is present in lib folder <br>
-- Database name can be updated in properties file. url=jdbc:mysql://localhost:3306/studentdb (studentdb is the database name)
+- Database name can be updated in properties file. url=jdbc:mysql://localhost:3306/studentdb (studentdb is the database name) <br>
+- CODES are present in src/com/org/StudentManagement <br>
+
